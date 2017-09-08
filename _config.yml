@@ -38,8 +38,8 @@ owner:
   disqus-shortname: https-gugaevkirill-github-io
 
 
-include:
-  - .htaccess
+include: ["_pages", ".htaccess"]
+
 exclude:
   - "*.less"
   - "*.sublime-project"
